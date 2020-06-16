@@ -7,9 +7,8 @@ ArrayList < Block > blocks = new ArrayList< Block > ();
 
 //基本情報の設定
 void setup() {
-  fullScreen(P2D);
+  size(800,600);
   colorMode(HSB);
-  music.load(dataPath("ssg_08.mid"));
 }
 
 
