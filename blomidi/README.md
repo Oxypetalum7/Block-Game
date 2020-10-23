@@ -1,12 +1,12 @@
 Blomidi
 ===
 未来大 学部一年次科目「情報表現入門」で製作した作品
-<br>
+</br>
 MIDIファイルを読み込んで生成されたブロックをボールが跳ねていく、
-<br>
+</br>
 オーディオビジュアライザ的なゲームです。
 
-<img src="https://user-images.githubusercontent.com/17905349/96976118-63c29780-1556-11eb-94f3-bd61311fc550.gif" width="480"><br>
+<img src="https://user-images.githubusercontent.com/17905349/96976118-63c29780-1556-11eb-94f3-bd61311fc550.gif" width="480"></br>
 
 動作環境
 ===
