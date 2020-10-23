@@ -8,10 +8,6 @@ MIDIファイルを読み込んで生成されたブロックをボールが跳�
 
 <img src="https://user-images.githubusercontent.com/17905349/96976118-63c29780-1556-11eb-94f3-bd61311fc550.gif" width="480">
 
-#動作環境
-===
-- Windows10
-- Processing 3.5.3
 
 遊び方
 ===
@@ -23,3 +19,8 @@ MIDIファイルを読み込んで生成されたブロックをボールが跳�
 <p style="font-size: 100%"><span style="font-size: 150%">2.</span>　MIDIファイルを選択するとゲーム画面に遷移します。音楽から生成されるブロックを渡って行って、ボールを音楽の終わりまで落とさなければクリアです。ボールはマウスを左クリックすることで任意のタイミングで落とす事が出来ます。ボールはマウスの座標に反応して左右に動きます。落としてしまうとゲームオーバーです。</p>
 <img src="https://user-images.githubusercontent.com/17905349/96974131-c1091980-1553-11eb-8f4f-bceec762dd40.png" width="380">
 <img src="https://user-images.githubusercontent.com/17905349/96974133-c23a4680-1553-11eb-82c3-38f99067c16b.png" width="380">
+
+動作環境
+===
+- Windows10
+- Processing 3.5.3
