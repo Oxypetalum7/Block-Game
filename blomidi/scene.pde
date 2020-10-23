@@ -48,6 +48,7 @@ class Scene {
       text("Press ENTER key to return to title", width/2, height/2+100);
       if (keyPressed == true) {
         if ( key == ENTER ) {
+          ball.init();
           Mode = 0;
           fcflag = true;
           keyPressed = false;

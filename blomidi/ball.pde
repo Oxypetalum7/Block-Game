@@ -25,4 +25,9 @@ class Ball { //ボールを管理
       }
     }
   }
+  void init(){
+    this.y = 10; //座標
+    this.dy = 2; //加速度
+    this.g = 0.20; //重力加速度
+  }
 }
