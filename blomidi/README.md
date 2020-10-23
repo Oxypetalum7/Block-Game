@@ -6,13 +6,12 @@ MIDIファイルを読み込んで生成されたブロックをボールが跳�
 </br>
 オーディオビジュアライザ的なゲームです。
 
-<img src="https://user-images.githubusercontent.com/17905349/96976118-63c29780-1556-11eb-94f3-bd61311fc550.gif" width="480"></br>
+<img src="https://user-images.githubusercontent.com/17905349/96976118-63c29780-1556-11eb-94f3-bd61311fc550.gif" width="480">
 
 動作環境
 ===
 - Windows10
 - Processing 3.5.3
-<br>
 
 遊び方
 ===
